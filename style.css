@@ -1,0 +1,18 @@
+body {
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png");
+}
+
+#profile {
+	width: 250px;
+	height: 175px;
+}
+
+#icons {
+	width: 100px;
+	height: 100px;
+}
+
+.images {
+	width: 250px;
+	height: 250px;
+}
